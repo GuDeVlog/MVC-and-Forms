@@ -23,3 +23,4 @@ O projeto **MVC** utiliza o padrão de arquitetura MVC (Model-View-Controller) e
 
 ### Estrutura do Projeto
 
+MVC-and-Forms/ │ ├── Forms/ # Projeto de Forms └── MVC/ # Projetos MVC ├── Cadastro JogosMVC/CadJogosMVC/ ├── Cadastro JogosMVC2.0/CadJogosMVC/ ├── Cadastro JogosMVC3.0/CadJogosMVC/ ├── Cadastro JogosMVC4.0/CadJogosMVC/ ├── Cadastro JogosMVCfinal/CadJogosMVC/ ├── Calculadora Potencial/CalculadoraPotencia/ └── Conversores de valores/projetoConversor/
