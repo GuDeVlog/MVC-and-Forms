@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CadJogosMVC.props" />
+</Project>

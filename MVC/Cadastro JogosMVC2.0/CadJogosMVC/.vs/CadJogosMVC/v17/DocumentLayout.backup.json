@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\views\\jogos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\views\\jogos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\cadjogosmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\cadjogosmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\controllers\\jogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\controllers\\jogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\models\\jogoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\models\\jogoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\views\\jogos\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\views\\jogos\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\14.1\\cadjogosmvc\\cadjogosmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadJogosMVC\\CadJogosMVC.csproj|solutionrelative:cadjogosmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JogoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Models\\JogoViewModel.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC\\Models\\JogoViewModel.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Models\\JogoViewModel.cs",
+              "RelativeToolTip": "CadJogosMVC\\Models\\JogoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:05:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JogosController.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Controllers\\JogosController.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC\\Controllers\\JogosController.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Controllers\\JogosController.cs",
+              "RelativeToolTip": "CadJogosMVC\\Controllers\\JogosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:05:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "CadJogosMVC\\DAO\\HelperDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:11:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexaoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\DAO\\ConexaoDB.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC\\DAO\\ConexaoDB.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\DAO\\ConexaoDB.cs",
+              "RelativeToolTip": "CadJogosMVC\\DAO\\ConexaoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:11:10.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadJogosMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\CadJogosMVC.csproj",
+              "RelativeDocumentMoniker": "CadJogosMVC\\CadJogosMVC.csproj",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\CadJogosMVC.csproj",
+              "RelativeToolTip": "CadJogosMVC\\CadJogosMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T14:10:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Views\\Jogos\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadJogosMVC\\Views\\Jogos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Views\\Jogos\\Index.cshtml",
+              "RelativeToolTip": "CadJogosMVC\\Views\\Jogos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:23:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\DAO\\JogosDAO.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC\\DAO\\JogosDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\DAO\\JogosDAO.cs",
+              "RelativeToolTip": "CadJogosMVC\\DAO\\JogosDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:10:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Views\\Jogos\\Form.cshtml",
+              "RelativeDocumentMoniker": "CadJogosMVC\\Views\\Jogos\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Views\\Jogos\\Form.cshtml",
+              "RelativeToolTip": "CadJogosMVC\\Views\\Jogos\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:22:33.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "CadJogosMVC\\Startup.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\14.1\\CadJogosMVC\\CadJogosMVC\\Startup.cs",
+              "RelativeToolTip": "CadJogosMVC\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:33:00.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

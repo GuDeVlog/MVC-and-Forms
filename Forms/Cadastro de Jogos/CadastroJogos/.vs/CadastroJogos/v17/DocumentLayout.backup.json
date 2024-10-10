@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|c:\\users\\testwork\\desktop\\moodle\\3.1\\cadastrojogos\\cadastrojogos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\cadastrojogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\cadastrojogos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\cadastrojogos\\models\\jogosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\models\\jogosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\cadastrojogos\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\dao\\jogosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\cadastrojogos\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\cadastrojogos\\dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F0F55A-29B6-4938-9504-6ACAC07A160C}|CadastroJogos\\CadJogosWF.csproj|solutionrelative:cadastrojogos\\dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Form1.cs",
+              "RelativeToolTip": "CadastroJogos\\Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA7wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroJogos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\Program.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Program.cs",
+              "RelativeToolTip": "CadastroJogos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JogosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Models\\JogosViewModel.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\Models\\JogosViewModel.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\Models\\JogosViewModel.cs",
+              "RelativeToolTip": "CadastroJogos\\Models\\JogosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JogosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\DAO\\JogosDAO.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\DAO\\JogosDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\DAO\\JogosDAO.cs",
+              "RelativeToolTip": "CadastroJogos\\DAO\\JogosDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "CadastroJogos\\DAO\\HelperDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexaoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\DAO\\ConexaoDB.cs",
+              "RelativeDocumentMoniker": "CadastroJogos\\DAO\\ConexaoDB.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\3.1\\CadastroJogos\\CadastroJogos\\DAO\\ConexaoDB.cs",
+              "RelativeToolTip": "CadastroJogos\\DAO\\ConexaoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:47:44.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

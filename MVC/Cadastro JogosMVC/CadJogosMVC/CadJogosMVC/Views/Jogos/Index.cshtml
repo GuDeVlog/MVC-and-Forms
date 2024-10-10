@@ -1,0 +1,25 @@
+﻿@model List<JogosViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Listagem de jogos</h2>
+
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>Reserva</th>
+        <th>Nome</th>
+        <th>Valor da Locação</th>
+        <th>CPU</th>
+        <th>Data de Aquisição</th>
+    </tr>
+    @foreach (var jogo in Model)
+    {
+        <tr>
+            <td>@jogo.Id</td>
+            <td>@jogo.Nome</td>
+            <td>@jogo.Valor_Locacao</td>
+            <td>@jogo.CPU_ID</td>
+            <td>@jogo.Data_Aquisicao.ToShortDateString()</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,24 @@
+﻿@model JogosViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Editar Jogos</h2>
+<form action="Editar" method="post">
+    <label for="Id" class="control-label">Reserva: @Model.Id</label>
+    <input type="hidden" Name="Id" value="@Model.Id" />
+    <br />
+    <label for="Nome" class="control-label">Nome do jogo</label>
+    <input type="text" Name="Nome" value="@Model.Nome" />
+    <br />
+    <label for="Valor_Locacao" class="control-label">ValorLocacao</label>
+    <input type="text" Name="Valor_Locacao" value="@Model.Valor_Locacao" />
+    <br />
+    <label for="Data_Aquisicao" class="control-label">Data de Aquisição</label>
+    <input type="date" Name="Data_Aquisicao" value="@Model.Data_Aquisicao.ToString("yyyy-MM-dd")" />
+    <br />
+    <label for="CPU_ID" class="control-label">CPUID</label>
+    <input type="number" Name="CPU_ID" value="@Model.CPU_ID" />
+    <br />
+    <input type="submit" value="Editar dados"/>
+    <br />
+</form>
