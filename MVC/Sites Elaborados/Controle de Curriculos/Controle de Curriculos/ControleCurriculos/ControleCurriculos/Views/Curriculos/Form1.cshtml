@@ -1,0 +1,85 @@
+﻿@model CurriculosViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Cadastro de Currículos</h2>
+<form action="Editar" method="post">
+    <label for="Id" class="control-label">ID: @Model.Id</label>
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <br />
+
+    <label for="Nome" class="control-label">Nome</label>
+    <input type="text" name="Nome" value="@Model.Nome" />
+    <br />
+
+    <label for="CPF" class="control-label">CPF</label>
+    <input type="text" name="CPF" value="@Model.CPF" />
+    <br />
+
+    <label for="Endereço" class="control-label">Endereço</label>
+    <input type="text" name="Endereço" value="@Model.Endereço" />
+    <br />
+
+    <label for="Telefone" class="control-label">Telefone</label>
+    <input type="text" name="Telefone" value="@Model.Telefone" />
+    <br />
+
+    <label for="Email" class="control-label">Email</label>
+    <input type="email" name="Email" value="@Model.Email" />
+    <br />
+
+    <label for="PretensaoSalarial" class="control-label">Pretensão Salarial</label>
+    <input type="text" step="0.01" name="PretensaoSalarial" value="@Model.PretensaoSalarial" />
+    <br />
+
+    <label for="CargoPretendido" class="control-label">Cargo Pretendido</label>
+    <input type="text" name="CargoPretendido" value="@Model.CargoPretendido" />
+    <br />
+
+    <label for="Curso1" class="control-label">Curso 1</label>
+    <input type="text" name="Curso1" value="@Model.Curso1" />
+    <br />
+
+    <label for="Curso2" class="control-label">Curso 2</label>
+    <input type="text" name="Curso2" value="@Model.Curso2" />
+    <br />
+
+    <label for="Curso3" class="control-label">Curso 3</label>
+    <input type="text" name="Curso3" value="@Model.Curso3" />
+    <br />
+
+    <label for="Curso4" class="control-label">Curso 4</label>
+    <input type="text" name="Curso4" value="@Model.Curso4" />
+    <br />
+
+    <label for="Curso5" class="control-label">Curso 5</label>
+    <input type="text" name="Curso5" value="@Model.Curso5" />
+    <br />
+
+    <label for="Experiencia1" class="control-label">Experiência 1</label>
+    <input type="text" name="Experiencia1" value="@Model.Experiencia1" />
+    <br />
+
+    <label for="Experiencia2" class="control-label">Experiência 2</label>
+    <input type="text" name="Experiencia2" value="@Model.Experiencia2" />
+    <br />
+
+    <label for="Experiencia3" class="control-label">Experiência 3</label>
+    <input type="text" name="Experiencia3" value="@Model.Experiencia3" />
+    <br />
+
+    <label for="Idioma1" class="control-label">Idioma 1</label>
+    <input type="text" name="Idioma1" value="@Model.Idioma1" />
+    <br />
+
+    <label for="Idioma2" class="control-label">Idioma 2</label>
+    <input type="text" name="Idioma2" value="@Model.Idioma2" />
+    <br />
+
+    <label for="Idioma3" class="control-label">Idioma 3</label>
+    <input type="text" name="Idioma3" value="@Model.Idioma3" />
+    <br />
+
+    <input type="submit" value="Editar dados" />
+    <br />
+</form>

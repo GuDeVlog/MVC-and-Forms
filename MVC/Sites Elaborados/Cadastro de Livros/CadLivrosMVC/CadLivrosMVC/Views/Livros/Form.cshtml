@@ -1,0 +1,33 @@
+﻿@model LivrosViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Cadastro de Livros</h2>
+<form action="Salvar" method="post">
+    <label for="Id" class="control-label">Id</label>
+    <input type="number" Name="Id" value="@Model.Id" />
+    <br />
+    <label for="Titulo" class="control-label">Titulo do livro</label>
+    <input type="text" Name="Titulo" value="@Model.Titulo" />
+    <br />
+    <label for="Autor1" class="control-label">Autor1</label>
+    <input type="text" Name="Autor1" value="@Model.Autor1" />
+    <br />
+    <label for="Autor2" class="control-label">Autor 2</label>
+    <input type="text" Name="Autor2" value="@Model.Autor2" />
+    <br />
+    <label for="Editora" class="control-label">Editora</label>
+    <input type="text" Name="Editora" value="@Model.Editora" />
+    <br />
+    <label for="Ano" class="control-label">Ano de lancamento</label>
+    <input type="number" Name="Ano" value="@Model.Ano" />
+    <br />
+    <label for="Edicao" class="control-label">Edicao</label>
+    <input type="number" Name="Edicao" value="@Model.Edicao" />
+    <br />
+    <label for="Preco" class="control-label">Preco Sugerido</label>
+    <input type="number" Name="Edicao" value="@Model.PrecoSugerido" />
+    <br />
+    <input type="submit" value="Salvar dados"/>
+    <br />
+</form>

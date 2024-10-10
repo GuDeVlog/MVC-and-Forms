@@ -1,0 +1,44 @@
+﻿@model List<LivrosViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Listagem de Livros</h2>
+
+<a href="/livros/create" class="btn btn-info">Novo Registro</a>
+<br />
+
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>Ações</th>
+        <th>ID</th>
+        <th>Titulo</th>
+        <th>Autor1</th>
+        <th>Autor2</th>
+        <th>Editora</th>
+        <th>Ano</th>
+        <th>Editora</th>
+        <th>Preço Sugerido</th>
+    </tr>
+    @foreach (var livro in Model)
+    {
+        <tr>
+            <td>
+                <a href="/livros/edit?id=@livro.Id" title="Editar" >
+                    <img src="/assets/Edit.png" alt="Editar" style="width:30px !important; height:30px !important;" />
+                </a>
+                &nbsp;&nbsp;
+                <a href="/livros/delete?id=@livro.Id" title="Delete">
+                    <img src="/assets/Delete.png" alt="Delete" style="width:30px !important; height:30px !important;" />
+                </a>
+            </td>
+            <td>@livro.Id</td>
+            <td>@livro.Titulo</td>
+            <td>@livro.Autor1</td>
+            <td>@livro.Autor2</td>
+            <td>@livro.Editora</td>
+            <td>@livro.Ano</td>
+            <td>@livro.Edicao</td>
+            <td>@livro.PrecoSugerido.ToString("0.00")</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,26 @@
+use AulaDB
+
+drop table curriculo
+
+create table curriculo
+(
+  Id int not null primary key,
+  Nome varchar(100) not null,
+  CPF varchar(100) not null,
+  Endereco varchar(100) null,
+  Telefone  varchar(100) not null,
+  Email varchar(100) not null,
+  PretensaoSalarial decimal(18, 2) not null,
+  CargoPretendido varchar(100) not null,
+  Curso1 varchar(100) null,
+  Curso2 varchar(100) null, 
+  Curso3 varchar(100) null, 
+  Curso4 varchar(100) null, 
+  Curso5 varchar(100) null, 
+  Experiencia1 varchar(100) null,
+  Experiencia2 varchar(100) null,
+  Experiencia3 varchar(100) null,
+  Idioma1 varchar(100) null,
+  Idioma2 varchar(100) null,
+  Idioma3 varchar(100) null,
+)

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\views\\curriculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\views\\curriculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\dao\\curriculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\dao\\curriculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\controllers\\curriculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\controllers\\curriculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\models\\curriculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\models\\curriculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\views\\curriculos\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\views\\curriculos\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\views\\curriculos\\form1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\views\\curriculos\\form1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|c:\\users\\testwork\\desktop\\moodle\\controle de curriculos\\controle de curriculos\\controlecurriculos\\controlecurriculos\\dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}|ControleCurriculos\\ControleCurriculos.csproj|solutionrelative:controlecurriculos\\dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Error.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControleCurriculos\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Error.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "ControleCurriculos\\DAO\\HelperDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:29:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurriculoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\DAO\\CurriculoDAO.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\DAO\\CurriculoDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\DAO\\CurriculoDAO.cs",
+              "RelativeToolTip": "ControleCurriculos\\DAO\\CurriculoDAO.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwCoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:29:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurriculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Controllers\\CurriculosController.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Controllers\\CurriculosController.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Controllers\\CurriculosController.cs",
+              "RelativeToolTip": "ControleCurriculos\\Controllers\\CurriculosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:28:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurriculosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Models\\CurriculosViewModel.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Models\\CurriculosViewModel.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Models\\CurriculosViewModel.cs",
+              "RelativeToolTip": "ControleCurriculos\\Models\\CurriculosViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:29:11.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Curriculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Views\\Curriculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Curriculos\\Index.cshtml",
+              "RelativeToolTip": "ControleCurriculos\\Views\\Curriculos\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T00:29:18.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Curriculos\\Form.cshtml",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Views\\Curriculos\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Curriculos\\Form.cshtml",
+              "RelativeToolTip": "ControleCurriculos\\Views\\Curriculos\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T00:29:17.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Curriculos\\Form1.cshtml",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Views\\Curriculos\\Form1.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Curriculos\\Form1.cshtml",
+              "RelativeToolTip": "ControleCurriculos\\Views\\Curriculos\\Form1.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T02:26:36.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ControleCurriculos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:29:13.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ControleCurriculos\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T01:08:59.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControleCurriculos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:05:12.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Startup.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\Startup.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\Startup.cs",
+              "RelativeToolTip": "ControleCurriculos\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:31:52.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConexaoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\DAO\\ConexaoDB.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\DAO\\ConexaoDB.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\DAO\\ConexaoDB.cs",
+              "RelativeToolTip": "ControleCurriculos\\DAO\\ConexaoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:29:06.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
+              "RelativeDocumentMoniker": "ControleCurriculos\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Controle de Curriculos\\Controle de Curriculos\\ControleCurriculos\\ControleCurriculos\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
+              "RelativeToolTip": "ControleCurriculos\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:06:43.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

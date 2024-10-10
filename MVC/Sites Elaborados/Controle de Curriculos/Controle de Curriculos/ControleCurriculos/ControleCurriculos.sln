@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleCurriculos", "ControleCurriculos\ControleCurriculos.csproj", "{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776D0DEF-1A1A-4F3C-8D31-5E954C24EE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39CC549-F66A-4F51-B4DD-A0EB11CFD811}
+	EndGlobalSection
+EndGlobal

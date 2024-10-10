@@ -1,0 +1,46 @@
+﻿@model List<CurriculosViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Listagem de Curriculos</h2>
+
+<a href="/curriculos/create" class="btn btn-info">Novo Registro</a>
+<br/>
+
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>Gerenciar</th>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>CPF</th>
+        <th>Endereço</th>
+        <th>Telefone</th>
+        <th>Email</th>
+        <th>Pretensão Salarial</th>
+        <th>CargoPretendido</th>
+        <th>Cursos</th>
+        <th>Experiencias</th>
+        <th>Idiomas</th>
+    @foreach (var curriculo in Model)
+    {
+        <tr>
+            <td>
+                <a href="/curriculos/edit?id=@curriculo.Id" title="Editar"><img src="/assets/Edit.png" alt="Editar" style="width:27px !important; height:27px !important;" />
+                </a>
+                <a href="/curriculos/delete?id=@curriculo.Id" title="Delete"><img src="/assets/Delete.png" alt="Delete" style="width:27px !important; height:27px !important;" />
+                </a>
+            </td>
+            <td>@curriculo.Id</td>
+            <td>@curriculo.Nome</td>
+            <td>@curriculo.CPF</td>
+            <td>@curriculo.Endereço</td>
+            <td>@curriculo.Telefone</td>
+            <td>@curriculo.Email</td>
+            <td>@curriculo.PretensaoSalarial?.ToString("0.00")</td>
+            <td>@curriculo.CargoPretendido</td>
+            <td>@curriculo.Curso1; @curriculo.Curso2; @curriculo.Curso3; @curriculo.Curso4; @curriculo.Curso5</td>
+            <td>@curriculo.Experiencia1; @curriculo.Experiencia2; @curriculo.Experiencia3</td>
+            <td>@curriculo.Idioma1; @curriculo.Idioma2; @curriculo.Idioma3</td>
+        </tr>
+    }
+</table>

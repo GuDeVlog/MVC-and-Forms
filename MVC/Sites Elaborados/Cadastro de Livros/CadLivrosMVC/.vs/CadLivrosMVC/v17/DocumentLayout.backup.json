@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\views\\livros\\form1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\views\\livros\\form1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\dao\\livrosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\dao\\livrosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\models\\livrosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\models\\livrosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|c:\\users\\testwork\\desktop\\moodle\\cadastro de livros\\cadlivrosmvc\\cadlivrosmvc\\views\\livros\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52F80FDA-39F7-4A09-895B-496AAFA53972}|CadLivrosMVC\\CadLivrosMVC.csproj|solutionrelative:cadlivrosmvc\\views\\livros\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Views\\Livros\\Form1.cshtml",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Views\\Livros\\Form1.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Views\\Livros\\Form1.cshtml",
+              "RelativeToolTip": "CadLivrosMVC\\Views\\Livros\\Form1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T22:27:04.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "CadLivrosMVC\\DAO\\HelperDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:56:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivrosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Models\\LivrosViewModel.cs",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Models\\LivrosViewModel.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Models\\LivrosViewModel.cs",
+              "RelativeToolTip": "CadLivrosMVC\\Models\\LivrosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:26:50.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CadLivrosMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:26:49.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivrosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\DAO\\LivrosDAO.cs",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\DAO\\LivrosDAO.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\DAO\\LivrosDAO.cs",
+              "RelativeToolTip": "CadLivrosMVC\\DAO\\LivrosDAO.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:26:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "CadLivrosMVC\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:26:31.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Startup.cs",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Startup.cs",
+              "RelativeToolTip": "CadLivrosMVC\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:57:13.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Views\\Livros\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Views\\Livros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Views\\Livros\\Index.cshtml",
+              "RelativeToolTip": "CadLivrosMVC\\Views\\Livros\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T22:27:05.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Views\\Livros\\Form.cshtml",
+              "RelativeDocumentMoniker": "CadLivrosMVC\\Views\\Livros\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Testwork\\Desktop\\Moodle\\Cadastro de Livros\\CadLivrosMVC\\CadLivrosMVC\\Views\\Livros\\Form.cshtml",
+              "RelativeToolTip": "CadLivrosMVC\\Views\\Livros\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T22:27:03.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
